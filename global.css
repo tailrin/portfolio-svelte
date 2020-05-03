@@ -70,3 +70,9 @@ button:not(:disabled):active {
 button:focus {
 	border-color: #666;
 }
+
+@media only screen and (min-width: 2500px){
+	body{
+		font-size: 1.5em;
+	}
+}
